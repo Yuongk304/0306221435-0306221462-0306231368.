@@ -1,6 +1,5 @@
 "hello world
-<<<<<<< HEAD
-xin chao nguyen thanh dat"
-=======
-xin chao dinh van loc"
->>>>>>> 0306221435-dinhvanloc
+xin chao nguyen thanh dat
+xin chao dinh van loc
+xin chao bui hoang phuc"
+
